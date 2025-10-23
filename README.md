@@ -23,8 +23,8 @@ A web-based platform to streamline school operations — timetable, assignments,
 - Manage timetables, classes, and schedules
 
 ##  Folder Structure
-project-root/
+```project-root/
 ├── frontend/
 ├── backend/ 
 ├── database/ 
-└── docs/ 
+└── docs/```
