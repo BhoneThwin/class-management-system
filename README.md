@@ -27,4 +27,4 @@ A web-based platform to streamline school operations — timetable, assignments,
 ├── frontend/
 ├── backend/ 
 ├── database/ 
-└── docs/```
+└── docs/
